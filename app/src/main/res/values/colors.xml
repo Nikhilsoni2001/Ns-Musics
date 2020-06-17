@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="start_gradient2">#424242</color>
+    <color name="center_color2">#757575</color>
+    <color name="end_gradient2">#bdbdbd</color>
+
+    <color name="center_color1">#9e9e9e</color>
+    <color name="end_color1">#e0e0e0</color>
+    <color name="start_color1">#9e9e9e</color>
+    <color name="black">#212121</color>
+</resources>

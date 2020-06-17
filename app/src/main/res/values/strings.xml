@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NS Musics</string>
+    <string name="welcome">Welcome</string>
+    <string name="todo">todo</string>
+    <string name="forever">Forever Songs</string>
+    <string name="trending_music">Trendings</string>
+    <string name="latest">Latests</string>
+    <string name="playlist">Playlists</string>
+
+    <string name="the_album_contains_top_100_most_streamed_songs_on_nsMusics_app_with_streams_rounded_to_the_nearest_million">The album contains top 100 most streamed songs on NS MUSICS app with streams rounded to the nearest million.</string>
+    <string name="the_album_contains_trending_songs_of_nsMusics_app_this_album_updates_every_week_according_to_the_trend">The album contains weekly trending songs of NS MUSICS app, this album updates every week according to the trend.</string>
+    <string name="the_album_contains_top_20_most_streamed_songs_of_latests_of_nsMusics_app">The album contains top 20 most streamed songs of Latests of NS MUSICS app .</string>
+    <string name="this_is_customizable_playlist_choose_your_favourite_songs_out_of_millions_in_nsMusics_app">This is customizable playlist, choose your favourite songs out of millions in NS MUSICS app</string>
+
+</resources>
